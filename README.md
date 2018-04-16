@@ -1,2 +1,2 @@
 # hello-world
-intro repo
+Hello everyone, this is a sample readme. 
